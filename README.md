@@ -1,4 +1,6 @@
-# Nouns Foundation Blog
+# Deepfried Horse
+
+The personal blog of 4156
 
 ## License
 
