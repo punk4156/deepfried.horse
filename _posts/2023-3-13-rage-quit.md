@@ -3,7 +3,7 @@ layout: post
 title: Thinking About Rage Quit
 ---
 
-**tldr;:** if we have an opportunity to implement *compliant* rage quit, we probably should
+**tldr;:** if we have an opportunity to implement *compliant* rage quit, we probably should.
 
 **Disclaimer**: [Prop 248](https://nouns.wtf/vote/248) has none of the properties that we traditionally associate with rage quit such as protection from 51% attacks. The verbs implementation is a better starting point for Nouns rage quit. You can read about it [here](https://hackmd.io/jctHoCh0STORZGyJIQKpMA?view).
 
@@ -47,6 +47,6 @@ Given the above context, implementing rage quit seems like an obvious choice, bu
 
 The legal arguments are complex and best left to lawyers, but if we assume that there is any increased probability of regulatory risk, we are forced to contend with a terrible set of incentives that emerge upon deployment of a non-compliant rage quit implementation: the minority that's solely focused on capitalising on book value gets the treasury ETH and the parties that wish to continue building Nouns are saddled with the regulatory risk. This is arguably a worse outcome than the standoff described above.
 
-## Moving Forward
+## In Conclusion
 
 A compliant implementation of rage quit will not only protect future DAO minorities, it can also act as an escape hatch to prevent the need for the book value minority to try to become the majority. If we can implement a complaint version of rage quit, it should be a high priority. This will let us protect future minorities, and ultimately let other majorities resurface their long-term objectives so that we can get back to all the things that make Nouns fun.
