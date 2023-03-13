@@ -5,8 +5,7 @@ title: Thinking About Rage Quit
 
 **tldr;:** if we have an opportunity to implement *compliant* rage quit, we probably should
 
-**Disclaimer**: [Prop 248](https://nouns.wtf/vote/248) has none of the properties that we traditionally associate with rage quit such as protection from 51% attacks. The verbs implementation is a better starting point for Nouns rage quit. You can read about it here:
-[https://hackmd.io/jctHoCh0STORZGyJIQKpMA](https://hackmd.io/jctHoCh0STORZGyJIQKpMA?view)
+**Disclaimer**: [Prop 248](https://nouns.wtf/vote/248) has none of the properties that we traditionally associate with rage quit such as protection from 51% attacks. The verbs implementation is a better starting point for Nouns rage quit. You can read about it [here](https://hackmd.io/jctHoCh0STORZGyJIQKpMA?view).
 
 <hr/>
 
