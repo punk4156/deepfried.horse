@@ -49,4 +49,4 @@ The legal arguments are complex and best left to lawyers, but if we assume that 
 
 ## In Conclusion
 
-A compliant implementation of rage quit will not only protect future DAO minorities, it can also act as an escape hatch to prevent the need for the book value minority to try to become the majority. If we can implement a complaint version of rage quit, it should be a high priority. This will let us protect future minorities, and ultimately let other majorities resurface their long-term objectives so that we can get back to all the things that make Nouns fun.
+A compliant implementation of rage quit will not only protect future DAO minorities, it can also act as an escape hatch to prevent the need for the book value minority to try to become the majority. If we can implement a compliant version of rage quit, it should be a high priority. This will let us protect future minorities, and ultimately let other majorities resurface their long-term objectives so that we can get back to all the things that make Nouns fun.
