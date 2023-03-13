@@ -3,9 +3,12 @@ layout: post
 title: Thinking About Rage Quit
 ---
 
-*Disclaimer: [Prop 248](https://nouns.wtf/vote/248) has none of the properties that we traditionally associate with rage quit such as protection from 51% attacks. It is rage quit in name alone. The verbs implementation is a better starting point for Nouns rage quit. You can read about it here:*
+**tldr;:** if we have an opportunity to implement *compliant* rage quit, we probably should
 
+**Disclaimer**: [Prop 248](https://nouns.wtf/vote/248) has none of the properties that we traditionally associate with rage quit such as protection from 51% attacks. The verbs implementation is a better starting point for Nouns rage quit. You can read about it here:
 [https://hackmd.io/jctHoCh0STORZGyJIQKpMA](https://hackmd.io/jctHoCh0STORZGyJIQKpMA?view)
+
+<hr/>
 
 ## Majorities and Minorities 
 
@@ -17,7 +20,7 @@ Anyone can join Nouns DAO at any time, and so the objectives of the DAO are ulti
 
 The purpose of rage quit is to protect DAO minorities from tyrannical majorities (DAO majorities don’t need protection from minorities, because only majorities can pass proposals). The theory is as follows: if the majority approves a proposal that the minority objects to, the minority can take their pro-rata share of the DAO treasury and exit the DAO before the proposal is executed.
 
-While the most extreme example of this kind of proposal is a ‘51% attack’, where a majority proposes that in addition to withdrawing their own pro-rata share of the DAO treasury, they’ll withdraw the minority’s share too, other examples are more subtle. 
+While the most extreme example of this kind of proposal is a ‘51% attack’ (where a voting majority proposes that they’ll withdraw the entirety of the treasury, not just their own share) other examples are more subtle.
 
 A minority in one jurisdiction might be worried about legal risk if the majority in another jurisdiction passes a specific proposal. A minority might consider the spending of the DAO treasury on memes and public goods to be extremely wasteful. It’s ultimately not possible to encode rules in the protocol about what the minority should and shouldn’t be protected from; they are either protected by the ability to exit, or they are not.
 
@@ -43,7 +46,7 @@ Additionally, the profit seeking group can employ other strategies as they incre
 
 Given the above context, implementing rage quit seems like an obvious choice, but the most compelling argument against it, is that the ability for Nouners to withdraw the treasury could increase the probability that Nouns are securities. 
 
-The legal arguments are complex and best left to lawyers, but if we assume that there is any increased probability of regulatory risk, we are forced to contend with a terrible set of incentives that emerge upon deployment of a non-compliant rage quit implementation: the quitters get the treasury ETH and the stayers get the regulatory risk. This is arguably a worse outcome than the standoff described above.
+The legal arguments are complex and best left to lawyers, but if we assume that there is any increased probability of regulatory risk, we are forced to contend with a terrible set of incentives that emerge upon deployment of a non-compliant rage quit implementation: the minority that's solely focused on capitalising on book value gets the treasury ETH and the parties that wish to continue building Nouns are saddled with the regulatory risk. This is arguably a worse outcome than the standoff described above.
 
 ## Moving Forward
 
